@@ -1,0 +1,16 @@
+
+		body {
+			background color: #ED6F82;
+			color: white;
+			font-family: Times New Roman;
+
+		}
+		img { 
+			width: 100px;
+			border: 2px solid whitesmoke;
+		}
+
+		{
+		.container{
+			display: inline-flex;
+		}
